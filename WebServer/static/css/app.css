@@ -1,0 +1,267 @@
+
+li {
+  cursor: pointer;
+  padding-left: 0;
+}
+li:hover {
+  background-color: #eee;
+}
+
+#list {
+  position: relative;
+  overflow: auto;
+  overflow-x: hidden;
+  max-height: 310px;
+  min-height: 100px;
+  /*
+  height: 310px;
+  border: inset 1px #ccc;
+  */
+}
+#notes {
+  display: none;
+}
+#menu_more {
+  display: none;
+  position: absolute;
+  border: solid 1px #ccc;
+  width: 180px;
+  z-Index: 50000;
+}
+#menu_more li {
+  list-style: none;
+  width: 180px;
+  position: relative;
+  left: 40px;
+}
+#drawings {
+  display: none;
+}
+
+#misplaced_files {
+  display: none;
+}
+
+.pdf {
+  border: none;
+}
+
+.list-group-item {
+  margin-left: -40px;
+}
+.list-group-item.active {
+  background-color: #fff;
+  background-image: none;
+  border: solid 2px #ddf;
+  text-shadow: none;
+  color: #55f;
+}
+.list-group-item.active:hover {
+  background-color: #fff;
+  background-repeat: none;
+  background-image: none;
+  background-repeat: none;
+  text-shadow: none;
+  color: #55f;
+}
+
+.btn_actions {
+  float: right;
+  height: 40px;
+  width: 70px;
+  margin-top: -10px;
+  // font-size: 18pt;
+  background-color: #fff;
+  border: none;
+  cursor: pointer;
+}
+.btn_disabled {
+  color: #ddd;
+}
+.print_btn {
+  color: #fff;
+  background-color: #55f;
+  cursor: pointer;
+}
+#btn_info {
+  cursor: pointer;
+}
+#More_btn {
+  cursor: pointer;
+}
+.print_btn_disabled {
+  color: #fff;
+  background-color: #aaa;
+}
+#PDF_btn {
+  cursor: pointer;
+}
+#flash {
+  display: none;
+  font-size: 12pt;
+  margin-top: 10px;
+  /*
+  font-size: 11pt;
+  text-align: center;
+  background-color: #ffc;
+  padding: 8px;
+  */
+}
+
+.returned_count {
+  display: none;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  text-align: center;
+  background-color: #eee;
+  padding: 8px;
+  /*font-size: 10pt;*/
+}
+#search {
+  border: solid 1px #ddd;
+  color: #ccc;
+  width: 250px;
+  font-size: 19pt;
+  padding: 4px;
+  margin-bottom: 10px;
+  vertical-align: top;
+}
+
+.last_time {
+  font-size: 19pt;
+  padding: 2px 2px 2px 20px;
+  margin-bottom: 10px;
+}
+
+#last_time {
+  font-style: italic;
+}
+
+#drawing_message {
+  display: none;
+}
+
+.bar-lead {
+  color: #aaa;
+  font-style: italic;
+  font-size: 10pt;
+}
+.bar-head {
+  color: #777;
+  font-weight: bold;
+  font-size: 14pt;
+}
+
+/*
+.7_old {
+  width: 8px; 
+  background-color: #0d0; 
+  display: inline; 
+  float: right;
+}
+.30_old {
+  width: 8px; 
+  background-color: #00f; 
+  display: inline; 
+  float: right;
+}
+*/
+
+.link_icon {
+  width: 24px;
+  height: 24px;
+  float: right;
+}
+.link_icon:hover {
+  margin: -8px -6px 0 0;
+  height: 36px;
+  width:  36px;
+}
+
+/*
+#pdf_modified {
+  width: 8px; 
+  background-color: #0d0; 
+  display: inline; 
+  float: right;
+}
+*/
+
+/*
+@gridColumnWidth = 50px;
+@gridGutterWidth = 20px;
+*/
+
+#media {
+}
+#media img {
+  display: none;
+  width:100%;
+  max-width:64px;
+}
+  /* customized gallery */
+
+  .featherlight-previous span {
+    display: block;
+    position: absolute;
+    left: 25px;
+    right: 80%;
+    bottom: 0px;
+    top: 25px;
+    font-size: 36pt;
+    text-align: center;
+    line-height: 400px;
+    opacity: 0;
+    /* color: #000; */
+    cursor: pointer;
+  }
+  .featherlight-previous:hover span {
+    background: rgba(0,0,0,0.5);
+    color: #fff;
+    opacity: 1;
+  }
+  .featherlight-next span {
+    display: inline-block;
+    position: absolute;
+    left: 80%;
+    right: 25px;
+    bottom: 0px;
+    top: 25px;
+    font-size: 36pt;
+    text-align: center;
+    line-height: 400px;
+    opacity: 0;
+    cursor: pointer;
+  }
+  .featherlight-next:hover span {
+    background: rgba(0,0,0,0.5);
+    color: #fff;
+    opacity: 1;
+  }
+  .featherlight .featherlight-content {
+    clear:both;
+    background-color: #000;
+  }
+  .featherlight-gallery {
+    background: rgba(100,100,100,0.5);
+  }
+  .featherlight-gallery .featherlight-content {
+    background: #000;
+  }
+  .featherlight-gallery .featherlight-next:hover,
+  .featherlight-gallery2 .featherlight-previous:hover {
+    background: rgba(0,0,0,0.5);
+    cursor: pointer;
+  }
+  .featherlight-gallery .featherlight-next:hover span,
+  .featherlight-gallery .featherlight-previous:hover span {
+    font-size: 25px;
+    line-height: 25px;
+    margin-top: -12.5px;
+    color: #fff;
+  }
+  .featherlight-gallery  .featherlight-close {
+    background: transparent;
+    color: #fff;
+    font-size: 1.2em;
+  }

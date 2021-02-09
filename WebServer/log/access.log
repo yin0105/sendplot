@@ -1,0 +1,30 @@
+"" 
+2020-11-05 13:19:25,416-INFO-SendPlot.flask ||||||||||||||||||||||||||||||||||
+2020-11-05 13:19:25,416-INFO-Initializing...
+2020-11-05 13:19:25,416-INFO-starting...
+Scanning directories ...
+
+        
+            ######################################################################
+            #                                                                    #
+            #       Check the SCAN_DIRECTORIES variable in the .env file.        #
+          #       There are duplicate directory path.  (See below.)            #
+          #                                                                    #
+            ######################################################################
+            
+
+            duplicate URL: E:\Vaults\Omega_AFS\files\SW Models & Parts
+
+^CTraceback (most recent call last):
+  File "app.py", line 3, in <module>
+    from cachelib.simple import SimpleCache
+ModuleNotFoundError: No module named 'cachelib'
+Traceback (most recent call last):
+  File "app.py", line 3, in <module>
+    from cachelib.simple import SimpleCache
+ModuleNotFoundError: No module named 'cachelib'
+Traceback (most recent call last):
+  File "app.py", line 3, in <module>
+    from cachelib.simple import SimpleCache
+ModuleNotFoundError: No module named 'cachelib'
+^C

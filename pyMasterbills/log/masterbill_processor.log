@@ -1,0 +1,569 @@
+Clearing Large File
+2020-10-13 15:13:59,078-INFO-20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_R59511	isfile: False	 isdir: False	 exists: False
+2020-10-13 15:13:59,078-INFO-partial 20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_R59511
+2020-10-13 15:14:05,750-INFO-20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_R59511	isfile: False	 isdir: False	 exists: False
+2020-10-13 15:14:05,766-INFO-partial 20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_R59511
+2020-10-13 15:14:12,046-INFO-20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_R59511	isfile: False	 isdir: False	 exists: False
+2020-10-13 15:14:12,062-INFO-partial 20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_R59511
+2020-10-13 15:14:17,359-INFO-Masterbill processor ||||||||||||||||||||||||||||||||||
+2020-10-13 15:14:17,359-INFO-Initializing...
+2020-10-13 15:14:17,359-INFO-starting...
+2020-10-13 15:14:17,359-INFO-			 ===[ Press Ctrl+C to shutdown Masterbill Processor ]===
+2020-10-13 15:14:17,375-INFO-20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_R59511	isfile: False	 isdir: False	 exists: False
+2020-10-13 15:14:17,375-INFO-partial 20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_R59511
+2020-10-13 15:14:18,171-INFO-20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_R59511	isfile: False	 isdir: False	 exists: False
+2020-10-13 15:14:18,187-INFO-partial 20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_R59511
+2020-10-13 15:14:23,766-INFO-20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_R59511	isfile: False	 isdir: False	 exists: False
+2020-10-13 15:14:23,766-INFO-partial 20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_R59511
+2020-10-13 15:14:25,500-INFO-20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_R59511	isfile: False	 isdir: False	 exists: False
+2020-10-13 15:14:25,516-INFO-partial 20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_R59511
+2020-10-13 15:14:30,016-INFO-20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_R59511	isfile: False	 isdir: False	 exists: False
+2020-10-13 15:14:30,016-INFO-partial 20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_R59511
+2020-10-13 15:14:31,828-INFO-20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_R59511	isfile: False	 isdir: False	 exists: False
+2020-10-13 15:14:31,828-INFO-partial 20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_R59511
+2020-10-13 15:14:38,000-INFO-20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_R59511	isfile: False	 isdir: False	 exists: False
+2020-10-13 15:14:38,000-INFO-partial 20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_R59511
+2020-10-13 15:14:44,125-INFO-20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_R59511	isfile: False	 isdir: False	 exists: False
+2020-10-13 15:14:44,141-INFO-partial 20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_R59511
+2020-10-13 15:14:50,234-INFO-20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_R59511	isfile: False	 isdir: False	 exists: False
+2020-10-13 15:14:50,234-INFO-partial 20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_R59511
+2020-10-13 15:14:56,359-INFO-20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_R59511	isfile: False	 isdir: False	 exists: False
+2020-10-13 15:14:56,359-INFO-partial 20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_R59511
+2020-10-13 15:15:05,905-INFO-Masterbill processor ||||||||||||||||||||||||||||||||||
+2020-10-13 15:15:05,905-INFO-Initializing...
+2020-10-13 15:15:05,905-INFO-starting...
+2020-10-13 15:15:05,905-INFO-			 ===[ Press Ctrl+C to shutdown Masterbill Processor ]===
+2020-10-13 15:16:01,671-INFO-R59511	isfile: False	 isdir: False	 exists: False
+2020-10-13 15:16:01,750-INFO-master bill lines: 79
+2020-10-13 15:16:01,750-INFO-find search_for: -1
+2020-10-13 15:16:01,750-INFO-processing R59511
+2020-10-13 15:16:01,750-INFO-removing existing file - \\omegafs01\data\Operations\masterbills\R59511.pdf
+2020-10-13 15:16:02,969-INFO-finished R59511
+2020-10-13 15:16:08,983-INFO-R59511	isfile: False	 isdir: True	 exists: True
+2020-10-13 15:16:09,000-INFO-partial R59511
+2020-10-13 15:16:15,094-INFO-R59511	isfile: False	 isdir: False	 exists: False
+2020-10-13 15:16:15,171-INFO-master bill lines: 79
+2020-10-13 15:16:15,171-INFO-find search_for: -1
+2020-10-13 15:16:15,187-INFO-processing R59511
+2020-10-13 15:16:15,187-INFO-removing existing file - \\omegafs01\data\Operations\masterbills\R59511.pdf
+2020-10-13 15:16:16,328-INFO-finished R59511
+2020-10-13 15:18:19,937-INFO-R59511	isfile: False	 isdir: True	 exists: True
+2020-10-13 15:18:20,046-INFO-master bill lines: 79
+2020-10-13 15:18:20,046-INFO-find search_for: -1
+2020-10-13 15:18:20,046-INFO-processing R59511
+2020-10-13 15:18:20,062-INFO-removing existing file - \\omegafs01\data\Operations\masterbills\R59511.pdf
+2020-10-13 15:18:21,155-INFO-finished R59511
+2020-10-13 15:45:01,335-INFO-deleting older file: 20-10-12_R59511.pdf
+2020-10-13 15:45:08,351-INFO-deleting older file: 20-10-12_20-10-12_20-10-12_20-10-12_20-10-12_20-10-12_20-10-12_20-10-12_20-10-12_20-10-12_20-10-12_R59511.pdf
+2020-10-13 15:45:08,351-INFO-deleting older file: 20-10-12_20-10-12_20-10-12_20-10-12_20-10-12_20-10-12_20-10-12_20-10-12_20-10-12_20-10-12_R59511.pdf
+2020-10-13 15:45:08,367-INFO-deleting older file: 20-10-12_20-10-12_20-10-12_20-10-12_20-10-12_20-10-12_20-10-12_20-10-12_20-10-12_R59511.pdf
+2020-10-13 15:45:08,367-INFO-deleting older file: 20-10-12_20-10-12_20-10-12_20-10-12_20-10-12_20-10-12_20-10-12_20-10-12_R59511.pdf
+2020-10-13 15:45:08,367-INFO-deleting older file: 20-10-12_20-10-12_20-10-12_20-10-12_20-10-12_20-10-12_20-10-12_R59511.pdf
+2020-10-13 15:45:08,367-INFO-deleting older file: 20-10-12_20-10-12_20-10-12_20-10-12_20-10-12_20-10-12_R59511.pdf
+2020-10-13 15:45:08,367-INFO-deleting older file: 20-10-12_20-10-12_20-10-12_20-10-12_20-10-12_R59511.pdf
+2020-10-13 15:45:08,367-INFO-deleting older file: 20-10-12_20-10-12_20-10-12_20-10-12_R59511.pdf
+2020-10-13 15:45:08,382-INFO-deleting older file: 20-10-12_20-10-12_20-10-12_R59511.pdf
+2020-10-13 15:45:08,382-INFO-deleting older file: 20-10-12_20-10-12_R59511.pdf
+2020-10-14 07:40:15,746-INFO-P59343	isfile: False	 isdir: True	 exists: True
+2020-10-14 07:40:15,823-INFO-master bill lines: 79
+2020-10-14 07:40:15,823-INFO-find search_for: -1
+2020-10-14 07:40:15,838-INFO-processing P59343
+2020-10-14 07:40:15,838-INFO-removing existing file - \\omegafs01\data\Operations\masterbills\P59343.pdf
+2020-10-14 07:40:16,713-INFO-finished P59343
+2020-10-14 07:40:40,651-INFO-R59511	isfile: False	 isdir: True	 exists: True
+2020-10-14 07:40:40,730-INFO-master bill lines: 79
+2020-10-14 07:40:40,730-INFO-find search_for: -1
+2020-10-14 07:40:40,730-INFO-processing R59511
+2020-10-14 07:40:40,730-INFO-removing existing file - \\omegafs01\data\Operations\masterbills\R59511.pdf
+2020-10-14 07:40:41,871-INFO-finished R59511
+2020-10-14 11:20:24,747-INFO-J59552	isfile: False	 isdir: True	 exists: True
+2020-10-14 11:20:24,825-INFO-master bill lines: 80
+2020-10-14 11:20:24,825-INFO-find search_for: -1
+2020-10-14 11:20:24,825-INFO-processing J59552
+2020-10-14 11:20:25,982-INFO-finished J59552
+2020-10-14 11:20:32,013-INFO-J59553	isfile: False	 isdir: True	 exists: True
+2020-10-14 11:20:32,122-INFO-master bill lines: 80
+2020-10-14 11:20:32,122-INFO-find search_for: -1
+2020-10-14 11:20:32,122-INFO-processing J59553
+2020-10-14 11:20:33,045-INFO-finished J59553
+2020-10-14 15:00:34,095-INFO-R59511	isfile: False	 isdir: True	 exists: True
+2020-10-14 15:00:34,174-INFO-master bill lines: 79
+2020-10-14 15:00:34,190-INFO-find search_for: -1
+2020-10-14 15:00:34,190-INFO-processing R59511
+2020-10-14 15:00:34,190-INFO-removing existing file - \\omegafs01\data\Operations\masterbills\R59511.pdf
+2020-10-14 15:00:36,440-INFO-finished R59511
+2020-10-14 15:08:18,250-INFO-deleting older file: 20-10-13_20-10-13_20-10-13_20-10-13_R59511.pdf
+2020-10-14 15:08:18,250-INFO-deleting older file: 20-10-13_20-10-13_20-10-13_R59511.pdf
+2020-10-14 15:08:18,266-INFO-deleting older file: 20-10-13_20-10-13_R59511.pdf
+2020-10-14 15:08:18,266-INFO-deleting older file: 20-10-13_R59511.pdf
+2020-10-14 15:08:25,000-INFO-deleting older file: 20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_R59511.pdf
+2020-10-14 15:08:25,000-INFO-deleting older file: 20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_R59511.pdf
+2020-10-14 15:08:25,000-INFO-deleting older file: 20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_R59511.pdf
+2020-10-14 15:08:25,000-INFO-deleting older file: 20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_R59511.pdf
+2020-10-14 15:08:25,000-INFO-deleting older file: 20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_R59511.pdf
+2020-10-14 15:08:25,000-INFO-deleting older file: 20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_R59511.pdf
+2020-10-14 15:08:25,000-INFO-deleting older file: 20-10-13_20-10-13_20-10-13_20-10-13_20-10-13_R59511.pdf
+2020-10-15 07:40:18,085-INFO-deleting older file: P59343.pdf
+2020-10-15 08:59:13,111-INFO-J59004	isfile: False	 isdir: True	 exists: True
+2020-10-15 08:59:13,128-INFO-partial J59004
+2020-10-15 08:59:21,611-INFO-J59004	isfile: False	 isdir: False	 exists: False
+2020-10-15 08:59:21,690-INFO-master bill lines: 80
+2020-10-15 08:59:21,690-INFO-find search_for: -1
+2020-10-15 08:59:21,690-INFO-processing J59004
+2020-10-15 08:59:22,642-INFO-finished J59004
+2020-10-15 09:07:17,062-INFO-OMEGA	isfile: False	 isdir: True	 exists: True
+2020-10-15 09:07:17,219-INFO-master bill lines: 70
+2020-10-15 09:07:17,219-INFO-find search_for: -1
+2020-10-15 09:07:17,234-INFO-processing OMEGA
+2020-10-15 09:07:18,203-INFO-finished OMEGA
+2020-10-15 10:18:35,996-INFO-J59590	isfile: False	 isdir: True	 exists: True
+2020-10-15 10:18:36,263-INFO-master bill lines: 55
+2020-10-15 10:18:36,263-INFO-find search_for: -1
+2020-10-15 10:18:36,263-INFO-processing J59590
+2020-10-15 10:18:37,591-INFO-finished J59590
+2020-10-15 10:19:32,809-INFO-J59590	isfile: False	 isdir: True	 exists: True
+2020-10-15 10:19:32,888-INFO-master bill lines: 80
+2020-10-15 10:19:32,888-INFO-find search_for: -1
+2020-10-15 10:19:32,888-INFO-processing J59590
+2020-10-15 10:19:32,888-INFO-removing existing file - \\omegafs01\data\Operations\masterbills\J59590.pdf
+2020-10-15 10:19:33,825-INFO-finished J59590
+2020-10-15 10:23:48,808-INFO-J59590	isfile: False	 isdir: True	 exists: True
+2020-10-15 10:23:49,042-INFO-master bill lines: 55
+2020-10-15 10:23:49,042-INFO-find search_for: -1
+2020-10-15 10:23:49,058-INFO-processing J59590
+2020-10-15 10:23:49,058-INFO-removing existing file - \\omegafs01\data\Operations\masterbills\J59590.pdf
+2020-10-15 10:23:50,355-INFO-finished J59590
+2020-10-15 10:24:45,401-INFO-J59591	isfile: False	 isdir: True	 exists: True
+2020-10-15 10:24:45,417-INFO-partial J59591
+2020-10-15 10:24:51,573-INFO-J59591	isfile: False	 isdir: False	 exists: False
+2020-10-15 10:24:51,683-INFO-master bill lines: 80
+2020-10-15 10:24:51,683-INFO-find search_for: -1
+2020-10-15 10:24:51,683-INFO-processing J59591
+2020-10-15 10:24:52,621-INFO-finished J59591
+2020-10-15 10:28:12,838-INFO-J59590	isfile: False	 isdir: True	 exists: True
+2020-10-15 10:28:12,931-INFO-master bill lines: 80
+2020-10-15 10:28:12,947-INFO-find search_for: -1
+2020-10-15 10:28:12,947-INFO-processing J59590
+2020-10-15 10:28:12,947-INFO-removing existing file - \\omegafs01\data\Operations\masterbills\J59590.pdf
+2020-10-15 10:28:13,869-INFO-finished J59590
+2020-10-15 10:56:31,628-INFO-J59590	isfile: False	 isdir: True	 exists: True
+2020-10-15 10:56:31,799-INFO-master bill lines: 80
+2020-10-15 10:56:31,799-INFO-find search_for: -1
+2020-10-15 10:56:31,815-INFO-processing J59590
+2020-10-15 10:56:31,815-INFO-removing existing file - \\omegafs01\data\Operations\masterbills\J59590.pdf
+2020-10-15 10:56:34,236-INFO-finished J59590
+2020-10-15 10:56:34,236-INFO-J59591	isfile: False	 isdir: True	 exists: True
+2020-10-15 10:56:34,269-INFO-partial J59591
+2020-10-15 10:56:40,894-INFO-J59591	isfile: False	 isdir: False	 exists: False
+2020-10-15 10:56:41,019-INFO-master bill lines: 80
+2020-10-15 10:56:41,019-INFO-find search_for: -1
+2020-10-15 10:56:41,019-INFO-processing J59591
+2020-10-15 10:56:41,019-INFO-removing existing file - \\omegafs01\data\Operations\masterbills\J59591.pdf
+2020-10-15 10:56:41,940-INFO-finished J59591
+2020-10-15 10:58:06,783-INFO-R59511	isfile: False	 isdir: True	 exists: True
+2020-10-15 10:58:06,861-INFO-master bill lines: 79
+2020-10-15 10:58:06,861-INFO-find search_for: -1
+2020-10-15 10:58:06,861-INFO-processing R59511
+2020-10-15 10:58:06,861-INFO-removing existing file - \\omegafs01\data\Operations\masterbills\R59511.pdf
+2020-10-15 10:58:07,767-INFO-finished R59511
+2020-10-15 11:20:25,539-INFO-deleting older file: J59552.pdf
+2020-10-15 11:20:37,680-INFO-deleting older file: J59553.pdf
+2020-10-15 16:26:28,598-INFO-J59345	isfile: False	 isdir: True	 exists: True
+2020-10-15 16:26:28,612-INFO-partial J59345
+2020-10-15 16:26:35,940-INFO-J59345	isfile: False	 isdir: False	 exists: False
+2020-10-15 16:26:36,019-INFO-master bill lines: 80
+2020-10-15 16:26:36,019-INFO-find search_for: -1
+2020-10-15 16:26:36,019-INFO-processing J59345
+2020-10-15 16:26:37,065-INFO-finished J59345
+2020-10-15 16:31:17,033-INFO-J59345	isfile: False	 isdir: True	 exists: True
+2020-10-15 16:31:17,081-INFO-partial J59345
+2020-10-15 16:31:24,111-INFO-J59345	isfile: False	 isdir: False	 exists: False
+2020-10-15 16:31:24,190-INFO-master bill lines: 80
+2020-10-15 16:31:24,190-INFO-find search_for: -1
+2020-10-15 16:31:24,190-INFO-processing J59345
+2020-10-15 16:31:24,190-INFO-removing existing file - \\omegafs01\data\Operations\masterbills\J59345.pdf
+2020-10-15 16:31:25,174-INFO-finished J59345
+2020-10-15 16:32:25,377-INFO-J59345	isfile: False	 isdir: True	 exists: True
+2020-10-15 16:32:25,454-INFO-master bill lines: 80
+2020-10-15 16:32:25,454-INFO-find search_for: -1
+2020-10-15 16:32:25,454-INFO-processing J59345
+2020-10-15 16:32:25,454-INFO-removing existing file - \\omegafs01\data\Operations\masterbills\J59345.pdf
+2020-10-15 16:32:26,424-INFO-finished J59345
+2020-10-15 16:45:11,842-INFO-J59345	isfile: False	 isdir: True	 exists: True
+2020-10-15 16:45:11,874-INFO-partial J59345
+2020-10-15 16:45:19,249-INFO-J59345	isfile: False	 isdir: False	 exists: False
+2020-10-15 16:45:19,326-INFO-master bill lines: 80
+2020-10-15 16:45:19,326-INFO-find search_for: -1
+2020-10-15 16:45:19,326-INFO-processing J59345
+2020-10-15 16:45:19,326-INFO-removing existing file - \\omegafs01\data\Operations\masterbills\J59345.pdf
+2020-10-15 16:45:20,358-INFO-finished J59345
+2020-10-15 21:00:55,358-INFO-J59555	isfile: False	 isdir: True	 exists: True
+2020-10-15 21:00:55,375-INFO-partial J59555
+2020-10-15 21:01:03,937-INFO-J59555	isfile: False	 isdir: False	 exists: False
+2020-10-15 21:01:04,015-INFO-master bill lines: 79
+2020-10-15 21:01:04,015-INFO-find search_for: -1
+2020-10-15 21:01:04,030-INFO-processing J59555
+2020-10-15 21:01:05,390-INFO-finished J59555
+2020-10-16 07:59:47,496-INFO-J59590	isfile: False	 isdir: True	 exists: True
+2020-10-16 07:59:47,526-INFO-partial J59590
+2020-10-16 07:59:55,621-INFO-J59590	isfile: False	 isdir: False	 exists: False
+2020-10-16 07:59:55,855-INFO-master bill lines: 80
+2020-10-16 07:59:55,855-INFO-find search_for: -1
+2020-10-16 07:59:55,871-INFO-processing J59590
+2020-10-16 07:59:55,871-INFO-removing existing file - \\omegafs01\data\Operations\masterbills\J59590.pdf
+2020-10-16 07:59:58,042-INFO-finished J59590
+2020-10-16 07:59:58,042-INFO-J59591	isfile: False	 isdir: True	 exists: True
+2020-10-16 07:59:58,121-INFO-master bill lines: 80
+2020-10-16 07:59:58,121-INFO-find search_for: -1
+2020-10-16 07:59:58,121-INFO-processing J59591
+2020-10-16 07:59:58,121-INFO-removing existing file - \\omegafs01\data\Operations\masterbills\J59591.pdf
+2020-10-16 07:59:58,980-INFO-finished J59591
+2020-10-16 08:42:34,358-INFO-J59590	isfile: False	 isdir: True	 exists: True
+2020-10-16 08:42:34,530-INFO-master bill lines: 80
+2020-10-16 08:42:34,530-INFO-find search_for: -1
+2020-10-16 08:42:34,530-INFO-processing J59590
+2020-10-16 08:42:34,530-INFO-removing existing file - \\omegafs01\data\Operations\masterbills\J59590.pdf
+2020-10-16 08:42:36,891-INFO-finished J59590
+2020-10-16 08:42:36,891-INFO-J59591	isfile: False	 isdir: True	 exists: True
+2020-10-16 08:42:36,969-INFO-partial J59591
+2020-10-16 08:42:43,312-INFO-J59591	isfile: False	 isdir: False	 exists: False
+2020-10-16 08:42:43,391-INFO-master bill lines: 80
+2020-10-16 08:42:43,391-INFO-find search_for: -1
+2020-10-16 08:42:43,391-INFO-processing J59591
+2020-10-16 08:42:43,391-INFO-removing existing file - \\omegafs01\data\Operations\masterbills\J59591.pdf
+2020-10-16 08:42:44,500-INFO-finished J59591
+2020-10-16 08:59:25,885-INFO-deleting older file: J59004.pdf
+2020-10-16 09:07:19,961-INFO-deleting older file: OMEGA.pdf
+2020-10-16 10:58:12,369-INFO-deleting older file: R59511.pdf
+2020-10-16 14:39:48,686-INFO-J59590	isfile: False	 isdir: True	 exists: True
+2020-10-16 14:39:48,763-INFO-master bill lines: 80
+2020-10-16 14:39:48,763-INFO-find search_for: -1
+2020-10-16 14:39:48,763-INFO-processing J59590
+2020-10-16 14:39:48,763-INFO-removing existing file - \\omegafs01\data\Operations\masterbills\J59590.pdf
+2020-10-16 14:39:49,763-INFO-finished J59590
+2020-10-16 14:39:55,874-INFO-J59591	isfile: False	 isdir: True	 exists: True
+2020-10-16 14:39:55,967-INFO-master bill lines: 80
+2020-10-16 14:39:55,967-INFO-find search_for: -1
+2020-10-16 14:39:55,967-INFO-processing J59591
+2020-10-16 14:39:55,967-INFO-removing existing file - \\omegafs01\data\Operations\masterbills\J59591.pdf
+2020-10-16 14:39:57,029-INFO-finished J59591
+2020-10-16 16:45:22,994-INFO-deleting older file: J59345.pdf
+2020-10-16 21:01:09,849-INFO-deleting older file: J59555.pdf
+2020-10-17 14:39:50,410-INFO-deleting older file: J59590.pdf
+2020-10-17 14:39:56,471-INFO-deleting older file: J59591.pdf
+2020-10-19 07:36:25,852-INFO-P59657	isfile: False	 isdir: True	 exists: True
+2020-10-19 07:36:25,884-INFO-partial P59657
+2020-10-19 07:36:33,852-INFO-P59657	isfile: False	 isdir: False	 exists: False
+2020-10-19 07:36:33,930-INFO-master bill lines: 79
+2020-10-19 07:36:33,930-INFO-find search_for: -1
+2020-10-19 07:36:33,930-INFO-processing P59657
+2020-10-19 07:36:34,822-INFO-finished P59657
+2020-10-19 07:56:18,832-INFO-J59073	isfile: False	 isdir: True	 exists: True
+2020-10-19 07:56:18,864-INFO-partial J59073
+2020-10-19 07:56:26,894-INFO-J59073	isfile: False	 isdir: False	 exists: False
+2020-10-19 07:56:26,973-INFO-master bill lines: 79
+2020-10-19 07:56:26,973-INFO-find search_for: -1
+2020-10-19 07:56:26,989-INFO-processing J59073
+2020-10-19 07:56:28,128-INFO-finished J59073
+2020-10-19 07:56:34,457-INFO-J59074	isfile: False	 isdir: True	 exists: True
+2020-10-19 07:56:34,551-INFO-master bill lines: 79
+2020-10-19 07:56:34,551-INFO-find search_for: -1
+2020-10-19 07:56:34,566-INFO-processing J59074
+2020-10-19 07:56:35,457-INFO-finished J59074
+2020-10-19 10:24:31,028-INFO-P59656	isfile: False	 isdir: True	 exists: True
+2020-10-19 10:24:31,059-INFO-partial P59656
+2020-10-19 10:24:38,980-INFO-P59656	isfile: False	 isdir: False	 exists: False
+2020-10-19 10:24:39,075-INFO-master bill lines: 79
+2020-10-19 10:24:39,075-INFO-find search_for: -1
+2020-10-19 10:24:39,075-INFO-processing P59656
+2020-10-19 10:24:39,980-INFO-finished P59656
+2020-10-19 13:03:49,861-INFO-J59590	isfile: False	 isdir: True	 exists: True
+2020-10-19 13:03:50,000-INFO-master bill lines: 80
+2020-10-19 13:03:50,000-INFO-find search_for: -1
+2020-10-19 13:03:50,016-INFO-processing J59590
+2020-10-19 13:03:50,907-INFO-finished J59590
+2020-10-19 13:03:57,063-INFO-J59591	isfile: False	 isdir: True	 exists: True
+2020-10-19 13:03:57,188-INFO-master bill lines: 80
+2020-10-19 13:03:57,188-INFO-find search_for: -1
+2020-10-19 13:03:57,188-INFO-processing J59591
+2020-10-19 13:03:58,095-INFO-finished J59591
+2020-10-19 13:05:35,734-INFO-J59590	isfile: False	 isdir: True	 exists: True
+2020-10-19 13:05:35,750-INFO-partial J59590
+2020-10-19 13:05:42,187-INFO-J59590	isfile: False	 isdir: False	 exists: False
+2020-10-19 13:05:42,298-INFO-master bill lines: 80
+2020-10-19 13:05:42,298-INFO-find search_for: -1
+2020-10-19 13:05:42,298-INFO-processing J59590
+2020-10-19 13:05:42,298-INFO-removing existing file - \\omegafs01\data\Operations\masterbills\J59590.pdf
+2020-10-19 13:05:43,484-INFO-finished J59590
+2020-10-19 13:05:43,484-INFO-J59591	isfile: False	 isdir: True	 exists: True
+2020-10-19 13:05:43,594-INFO-master bill lines: 80
+2020-10-19 13:05:43,594-INFO-find search_for: -1
+2020-10-19 13:05:43,609-INFO-processing J59591
+2020-10-19 13:05:43,609-INFO-removing existing file - \\omegafs01\data\Operations\masterbills\J59591.pdf
+2020-10-19 13:05:44,875-INFO-finished J59591
+2020-10-19 16:32:25,049-INFO-P59670	isfile: False	 isdir: True	 exists: True
+2020-10-19 16:32:25,361-INFO-master bill lines: 79
+2020-10-19 16:32:25,361-INFO-find search_for: -1
+2020-10-19 16:32:25,361-INFO-processing P59670
+2020-10-19 16:32:26,753-INFO-finished P59670
+2020-10-20 07:30:35,290-INFO-J59590	isfile: False	 isdir: True	 exists: True
+2020-10-20 07:30:35,384-INFO-master bill lines: 80
+2020-10-20 07:30:35,384-INFO-find search_for: -1
+2020-10-20 07:30:35,384-INFO-processing J59590
+2020-10-20 07:30:35,384-INFO-removing existing file - \\omegafs01\data\Operations\masterbills\J59590.pdf
+2020-10-20 07:30:36,275-INFO-finished J59590
+2020-10-20 07:30:42,259-INFO-J59591	isfile: False	 isdir: True	 exists: True
+2020-10-20 07:30:42,447-INFO-master bill lines: 80
+2020-10-20 07:30:42,447-INFO-find search_for: -1
+2020-10-20 07:30:42,463-INFO-processing J59591
+2020-10-20 07:30:42,463-INFO-removing existing file - \\omegafs01\data\Operations\masterbills\J59591.pdf
+2020-10-20 07:30:44,322-INFO-finished J59591
+2020-10-20 07:36:36,898-INFO-deleting older file: P59657.pdf
+2020-10-20 07:56:27,706-INFO-deleting older file: J59073.pdf
+2020-10-20 07:56:39,908-INFO-deleting older file: J59074.pdf
+2020-10-20 07:58:44,407-INFO-J59073	isfile: False	 isdir: True	 exists: True
+2020-10-20 07:58:44,517-INFO-master bill lines: 79
+2020-10-20 07:58:44,517-INFO-find search_for: -1
+2020-10-20 07:58:44,517-INFO-processing J59073
+2020-10-20 07:58:46,032-INFO-finished J59073
+2020-10-20 07:58:53,127-INFO-J59074	isfile: False	 isdir: True	 exists: True
+2020-10-20 07:58:53,252-INFO-master bill lines: 79
+2020-10-20 07:58:53,252-INFO-find search_for: -1
+2020-10-20 07:58:53,252-INFO-processing J59074
+2020-10-20 07:58:54,329-INFO-finished J59074
+2020-10-20 08:00:55,049-INFO-J59590	isfile: False	 isdir: True	 exists: True
+2020-10-20 08:00:55,141-INFO-master bill lines: 80
+2020-10-20 08:00:55,141-INFO-find search_for: -1
+2020-10-20 08:00:55,141-INFO-processing J59590
+2020-10-20 08:00:55,141-INFO-removing existing file - \\omegafs01\data\Operations\masterbills\J59590.pdf
+2020-10-20 08:00:56,127-INFO-finished J59590
+2020-10-20 08:01:03,048-INFO-J59591	isfile: False	 isdir: True	 exists: True
+2020-10-20 08:01:03,127-INFO-master bill lines: 80
+2020-10-20 08:01:03,127-INFO-find search_for: -1
+2020-10-20 08:01:03,127-INFO-processing J59591
+2020-10-20 08:01:03,127-INFO-removing existing file - \\omegafs01\data\Operations\masterbills\J59591.pdf
+2020-10-20 08:01:04,079-INFO-finished J59591
+2020-10-20 09:32:38,625-INFO-J59590	isfile: False	 isdir: True	 exists: True
+2020-10-20 09:32:38,671-INFO-partial J59590
+2020-10-20 09:32:46,078-INFO-J59590	isfile: False	 isdir: False	 exists: False
+2020-10-20 09:32:46,233-INFO-master bill lines: 80
+2020-10-20 09:32:46,233-INFO-find search_for: -1
+2020-10-20 09:32:46,233-INFO-processing J59590
+2020-10-20 09:32:46,233-INFO-removing existing file - \\omegafs01\data\Operations\masterbills\J59590.pdf
+2020-10-20 09:32:47,467-INFO-finished J59590
+2020-10-20 09:32:47,483-INFO-J59591	isfile: False	 isdir: True	 exists: True
+2020-10-20 09:32:47,592-INFO-master bill lines: 80
+2020-10-20 09:32:47,592-INFO-find search_for: -1
+2020-10-20 09:32:47,592-INFO-processing J59591
+2020-10-20 09:32:47,608-INFO-removing existing file - \\omegafs01\data\Operations\masterbills\J59591.pdf
+2020-10-20 09:32:48,937-INFO-finished J59591
+2020-10-20 10:24:43,374-INFO-deleting older file: P59656.pdf
+2020-10-20 16:32:25,480-INFO-deleting older file: P59670.pdf
+2020-10-21 07:58:46,710-INFO-deleting older file: J59073.pdf
+2020-10-21 07:58:58,913-INFO-deleting older file: J59074.pdf
+2020-10-21 08:16:54,627-INFO-X59469	isfile: False	 isdir: True	 exists: True
+2020-10-21 08:16:54,688-INFO-partial X59469
+2020-10-21 08:17:01,438-INFO-X59469	isfile: False	 isdir: False	 exists: False
+2020-10-21 08:17:01,798-INFO-master bill lines: 79
+2020-10-21 08:17:01,798-INFO-find search_for: -1
+2020-10-21 08:17:01,798-INFO-processing X59469
+2020-10-21 08:17:04,016-INFO-finished X59469
+2020-10-21 09:32:48,168-INFO-deleting older file: J59590.pdf
+2020-10-21 09:32:48,168-INFO-deleting older file: J59591.pdf
+2020-10-22 07:35:31,653-INFO-J59345	isfile: False	 isdir: True	 exists: True
+2020-10-22 07:35:31,793-INFO-master bill lines: 80
+2020-10-22 07:35:31,793-INFO-find search_for: -1
+2020-10-22 07:35:31,793-INFO-processing J59345
+2020-10-22 07:35:33,075-INFO-finished J59345
+2020-10-22 07:57:33,523-INFO-J59345	isfile: False	 isdir: True	 exists: True
+2020-10-22 07:57:33,538-INFO-partial J59345
+2020-10-22 07:57:41,256-INFO-J59345	isfile: False	 isdir: False	 exists: False
+2020-10-22 07:57:41,335-INFO-master bill lines: 80
+2020-10-22 07:57:41,335-INFO-find search_for: -1
+2020-10-22 07:57:41,335-INFO-processing J59345
+2020-10-22 07:57:41,335-INFO-removing existing file - \\omegafs01\data\Operations\masterbills\J59345.pdf
+2020-10-22 07:57:42,303-INFO-finished J59345
+2020-10-22 08:17:05,174-INFO-deleting older file: X59469.pdf
+2020-10-23 07:57:41,197-INFO-deleting older file: J59345.pdf
+2020-10-24 10:25:15,799-INFO-J59590	isfile: False	 isdir: True	 exists: True
+2020-10-24 10:25:15,878-INFO-master bill lines: 80
+2020-10-24 10:25:15,878-INFO-find search_for: -1
+2020-10-24 10:25:15,878-INFO-processing J59590
+2020-10-24 10:25:16,956-INFO-finished J59590
+2020-10-24 10:25:23,440-INFO-J59591	isfile: False	 isdir: True	 exists: True
+2020-10-24 10:25:23,971-INFO-master bill lines: 80
+2020-10-24 10:25:23,971-INFO-find search_for: -1
+2020-10-24 10:25:23,986-INFO-processing J59591
+2020-10-24 10:25:25,236-INFO-finished J59591
+2020-10-25 10:25:20,441-INFO-deleting older file: J59590.pdf
+2020-10-25 10:25:26,566-INFO-deleting older file: J59591.pdf
+2020-10-26 06:32:43,552-INFO-P59372	isfile: False	 isdir: True	 exists: True
+2020-10-26 06:32:43,694-INFO-master bill lines: 79
+2020-10-26 06:32:43,694-INFO-find search_for: -1
+2020-10-26 06:32:43,694-INFO-processing P59372
+2020-10-26 06:32:44,834-INFO-finished P59372
+2020-10-26 06:32:57,740-INFO-J19153	isfile: False	 isdir: True	 exists: True
+2020-10-26 06:32:57,802-INFO-master bill lines: 70
+2020-10-26 06:32:57,802-INFO-find search_for: -1
+2020-10-26 06:32:57,802-INFO-processing J19153
+2020-10-26 06:32:58,647-INFO-finished J19153
+2020-10-26 07:14:02,183-INFO-J59590	isfile: False	 isdir: True	 exists: True
+2020-10-26 07:14:02,213-INFO-partial J59590
+2020-10-26 07:14:08,947-INFO-J59590	isfile: False	 isdir: False	 exists: False
+2020-10-26 07:14:09,105-INFO-master bill lines: 80
+2020-10-26 07:14:09,105-INFO-find search_for: -1
+2020-10-26 07:14:09,105-INFO-processing J59590
+2020-10-26 07:14:10,088-INFO-finished J59590
+2020-10-26 07:14:10,088-INFO-J59591	isfile: False	 isdir: True	 exists: True
+2020-10-26 07:14:10,183-INFO-master bill lines: 80
+2020-10-26 07:14:10,183-INFO-find search_for: -1
+2020-10-26 07:14:10,183-INFO-processing J59591
+2020-10-26 07:14:11,230-INFO-finished J59591
+2020-10-26 07:53:33,109-INFO-A80280000000	isfile: False	 isdir: True	 exists: True
+2020-10-26 07:53:33,266-INFO-master bill lines: 55
+2020-10-26 07:53:33,266-INFO-find search_for: 859
+2020-10-26 07:53:33,266-INFO-change part sheet
+2020-10-26 07:53:33,266-INFO-processing A80280000000
+2020-10-26 07:53:33,937-INFO-finished A80280000000
+2020-10-26 16:50:19,880-INFO-J59522	isfile: False	 isdir: True	 exists: True
+2020-10-26 16:50:19,957-INFO-master bill lines: 80
+2020-10-26 16:50:19,957-INFO-find search_for: -1
+2020-10-26 16:50:19,957-INFO-processing J59522
+2020-10-26 16:50:20,911-INFO-finished J59522
+2020-10-27 06:32:45,219-INFO-deleting older file: P59372.pdf
+2020-10-27 06:33:03,391-INFO-deleting older file: J19153.pdf
+2020-10-27 07:14:14,739-INFO-deleting older file: J59590.pdf
+2020-10-27 07:14:14,739-INFO-deleting older file: J59591.pdf
+2020-10-27 07:53:35,165-INFO-deleting older file: A80280000000.pdf
+2020-10-27 08:49:48,369-INFO-A81264000000	isfile: False	 isdir: True	 exists: True
+2020-10-27 08:49:48,401-INFO-partial A81264000000
+2020-10-27 08:49:56,494-INFO-A81264000000	isfile: False	 isdir: False	 exists: False
+2020-10-27 08:49:56,572-INFO-master bill lines: 55
+2020-10-27 08:49:56,572-INFO-find search_for: 860
+2020-10-27 08:49:56,572-INFO-change part sheet
+2020-10-27 08:49:56,588-INFO-processing A81264000000
+2020-10-27 08:49:59,447-INFO-finished A81264000000
+2020-10-27 08:50:07,260-INFO-X59637	isfile: False	 isdir: True	 exists: True
+2020-10-27 08:50:07,338-INFO-master bill lines: 79
+2020-10-27 08:50:07,338-INFO-find search_for: -1
+2020-10-27 08:50:07,338-INFO-processing X59637
+2020-10-27 08:50:08,197-INFO-finished X59637
+2020-10-27 08:50:14,135-INFO-J54883	isfile: False	 isdir: True	 exists: True
+2020-10-27 08:50:14,244-INFO-master bill lines: 80
+2020-10-27 08:50:14,244-INFO-find search_for: -1
+2020-10-27 08:50:14,244-INFO-processing J54883
+2020-10-27 08:50:15,260-INFO-finished J54883
+2020-10-27 11:34:40,313-INFO-Masterbill processor ||||||||||||||||||||||||||||||||||
+2020-10-27 11:34:40,313-INFO-Initializing...
+2020-10-27 11:34:40,313-INFO-starting...
+2020-10-27 11:34:40,313-INFO-			 ===[ Press Ctrl+C to shutdown Masterbill Processor ]===
+2020-10-27 12:56:52,983-INFO-A81268000000	isfile: False	 isdir: False	 exists: False
+2020-10-27 12:56:53,062-INFO-master bill lines: 55
+2020-10-27 12:56:53,062-INFO-find search_for: 861
+2020-10-27 12:56:53,062-INFO-change part sheet
+2020-10-27 12:56:53,062-INFO-processing A81268000000
+2020-10-27 12:56:53,765-INFO-finished A81268000000
+2020-10-27 12:56:59,858-INFO-X59691	isfile: False	 isdir: True	 exists: True
+2020-10-27 12:56:59,890-INFO-partial X59691
+2020-10-27 12:57:07,437-INFO-J56627	isfile: False	 isdir: False	 exists: False
+2020-10-27 12:57:07,467-INFO-partial J56627
+2020-10-27 12:57:07,483-INFO-X59691	isfile: False	 isdir: False	 exists: False
+2020-10-27 12:57:07,624-INFO-master bill lines: 79
+2020-10-27 12:57:07,624-INFO-find search_for: -1
+2020-10-27 12:57:07,640-INFO-processing X59691
+2020-10-27 12:57:09,233-INFO-finished X59691
+2020-10-27 12:57:15,279-INFO-J56627	isfile: False	 isdir: True	 exists: True
+2020-10-27 12:57:15,342-INFO-master bill lines: 80
+2020-10-27 12:57:15,342-INFO-find search_for: -1
+2020-10-27 12:57:15,342-INFO-processing J56627
+2020-10-27 12:57:16,733-INFO-finished J56627
+2020-10-27 16:50:23,594-INFO-deleting older file: J59522.pdf
+2020-10-28 08:50:01,444-INFO-deleting older file: A81264000000.pdf
+2020-10-28 08:50:07,381-INFO-deleting older file: X59637.pdf
+2020-10-28 08:50:19,256-INFO-deleting older file: J54883.pdf
+2020-10-28 12:56:54,282-INFO-deleting older file: A81268000000.pdf
+2020-10-28 12:57:12,500-INFO-deleting older file: X59691.pdf
+2020-10-28 12:57:19,828-INFO-deleting older file: J56627.pdf
+2020-10-29 07:03:06,792-INFO-J59595	isfile: False	 isdir: True	 exists: True
+2020-10-29 07:03:06,823-INFO-partial J59595
+2020-10-29 07:03:14,635-INFO-A81278000000	isfile: False	 isdir: False	 exists: False
+2020-10-29 07:03:14,730-INFO-partial A81278000000
+2020-10-29 07:03:14,746-INFO-J59595	isfile: False	 isdir: False	 exists: False
+2020-10-29 07:03:14,885-INFO-master bill lines: 80
+2020-10-29 07:03:14,885-INFO-find search_for: -1
+2020-10-29 07:03:14,885-INFO-processing J59595
+2020-10-29 07:03:16,214-INFO-finished J59595
+2020-10-29 07:03:22,246-INFO-A81277000000	isfile: False	 isdir: True	 exists: True
+2020-10-29 07:03:22,355-INFO-master bill lines: 55
+2020-10-29 07:03:22,355-INFO-find search_for: 860
+2020-10-29 07:03:22,355-INFO-change part sheet
+2020-10-29 07:03:22,355-INFO-processing A81277000000
+2020-10-29 07:03:23,308-INFO-finished A81277000000
+2020-10-29 07:03:23,323-INFO-A81278000000	isfile: False	 isdir: True	 exists: True
+2020-10-29 07:03:23,542-INFO-master bill lines: 55
+2020-10-29 07:03:23,542-INFO-find search_for: 868
+2020-10-29 07:03:23,542-INFO-change part sheet
+2020-10-29 07:03:23,542-INFO-processing A81278000000
+2020-10-29 07:03:24,417-INFO-finished A81278000000
+2020-10-29 07:03:30,385-INFO-A81276000000	isfile: False	 isdir: True	 exists: True
+2020-10-29 07:03:30,463-INFO-master bill lines: 55
+2020-10-29 07:03:30,463-INFO-find search_for: 859
+2020-10-29 07:03:30,463-INFO-change part sheet
+2020-10-29 07:03:30,463-INFO-processing A81276000000
+2020-10-29 07:03:31,088-INFO-finished A81276000000
+2020-10-29 07:03:37,058-INFO-A81275000000	isfile: False	 isdir: True	 exists: True
+2020-10-29 07:03:37,135-INFO-master bill lines: 55
+2020-10-29 07:03:37,135-INFO-find search_for: 860
+2020-10-29 07:03:37,135-INFO-change part sheet
+2020-10-29 07:03:37,135-INFO-processing A81275000000
+2020-10-29 07:03:37,855-INFO-finished A81275000000
+2020-10-29 07:03:43,838-INFO-A81274000000	isfile: False	 isdir: True	 exists: True
+2020-10-29 07:03:43,855-INFO-partial A81274000000
+2020-10-29 07:03:49,933-INFO-A81274000000	isfile: False	 isdir: False	 exists: False
+2020-10-29 07:03:50,088-INFO-master bill lines: 55
+2020-10-29 07:03:50,088-INFO-find search_for: 860
+2020-10-29 07:03:50,088-INFO-change part sheet
+2020-10-29 07:03:50,105-INFO-processing A81274000000
+2020-10-29 07:03:50,760-INFO-finished A81274000000
+2020-10-29 15:39:17,813-INFO-J59590	isfile: False	 isdir: True	 exists: True
+2020-10-29 15:39:17,907-INFO-master bill lines: 80
+2020-10-29 15:39:17,907-INFO-find search_for: -1
+2020-10-29 15:39:17,907-INFO-processing J59590
+2020-10-29 15:39:19,361-INFO-finished J59590
+2020-10-29 15:39:26,970-INFO-J59591	isfile: False	 isdir: True	 exists: True
+2020-10-29 15:39:27,049-INFO-master bill lines: 80
+2020-10-29 15:39:27,049-INFO-find search_for: -1
+2020-10-29 15:39:27,049-INFO-processing J59591
+2020-10-29 15:39:28,299-INFO-finished J59591
+2020-10-29 15:47:58,530-INFO-J59590	isfile: False	 isdir: True	 exists: True
+2020-10-29 15:47:58,562-INFO-partial J59590
+2020-10-29 15:48:05,265-INFO-J59590	isfile: False	 isdir: False	 exists: False
+2020-10-29 15:48:05,358-INFO-master bill lines: 80
+2020-10-29 15:48:05,358-INFO-find search_for: -1
+2020-10-29 15:48:05,358-INFO-processing J59590
+2020-10-29 15:48:06,467-INFO-finished J59590
+2020-10-29 15:48:06,467-INFO-J59591	isfile: False	 isdir: True	 exists: True
+2020-10-29 15:48:06,546-INFO-master bill lines: 80
+2020-10-29 15:48:06,546-INFO-find search_for: -1
+2020-10-29 15:48:06,546-INFO-processing J59591
+2020-10-29 15:48:07,671-INFO-finished J59591
+2020-10-30 06:23:06,697-INFO-J59590	isfile: False	 isdir: True	 exists: True
+2020-10-30 06:23:06,727-INFO-partial J59590
+2020-10-30 06:23:14,868-INFO-J59590	isfile: False	 isdir: False	 exists: False
+2020-10-30 06:23:14,946-INFO-master bill lines: 80
+2020-10-30 06:23:14,946-INFO-find search_for: -1
+2020-10-30 06:23:14,946-INFO-processing J59590
+2020-10-30 06:23:14,946-INFO-removing existing file - \\omegafs01\data\Operations\masterbills\J59590.pdf
+2020-10-30 06:23:17,275-INFO-finished J59590
+2020-10-30 06:23:23,696-INFO-J59591	isfile: False	 isdir: True	 exists: True
+2020-10-30 06:23:23,773-INFO-master bill lines: 80
+2020-10-30 06:23:23,773-INFO-find search_for: -1
+2020-10-30 06:23:23,773-INFO-processing J59591
+2020-10-30 06:23:23,773-INFO-removing existing file - \\omegafs01\data\Operations\masterbills\J59591.pdf
+2020-10-30 06:23:24,743-INFO-finished J59591
+2020-10-30 07:03:19,637-INFO-deleting older file: J59595.pdf
+2020-10-30 07:03:25,700-INFO-deleting older file: A81277000000.pdf
+2020-10-30 07:03:25,700-INFO-deleting older file: A81278000000.pdf
+2020-10-30 07:03:31,762-INFO-deleting older file: A81276000000.pdf
+2020-10-30 07:03:37,825-INFO-deleting older file: A81275000000.pdf
+2020-10-30 07:03:49,903-INFO-deleting older file: A81274000000.pdf

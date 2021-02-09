@@ -1,0 +1,116 @@
+
+body {
+  font-family: arial;
+}
+
+#queue {
+  // width: 200px;
+  margin-left: 100px;
+  float: left;
+}
+
+#list_queue {
+    list-style-type: none;
+    border-style: outset;
+    border-color: #ddd;
+    border-width: 1px;
+    width: 200px;
+}
+
+#list_queue li {
+  //padding: 2px;
+}
+
+#list {
+  margin-top: 16px;
+  overflow: auto;
+  overflow-x: hidden;
+  height: 313px;
+}
+
+#returned_count {
+  margin-top: 8px;
+  text-align: center;
+  background-color: #eee;
+  font-size: 10pt;
+}
+
+#flash {
+  display: none;
+  font-size: 11pt;
+  text-align: center;
+  background-color: #ffc;
+  padding: 8px;
+}
+
+#page_updated {
+  font-size: 14pt;
+  font-weight: bold;
+  text-align: center;
+  color: #999;
+  // background: #eee;
+  padding: 8px;
+  width: 200px;
+  margin-left: 100px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #d00;
+}
+
+#label {
+  font-size: 18pt;
+  font-weight: bold;
+  color: #aaa;
+  text-align: center;
+}
+.pdf {
+  width: 180px;
+/*  float: left; */
+  border: solid 1px #eee;
+  cursor: pointer;
+}
+.pdf:hover {
+  background-color: #efe;
+}
+
+.txt {
+  width: 200px;
+/*  float: right; */
+  margin-right: 22px;
+  border: solid 1px #eee;
+  display: none;
+}
+#drawings {
+  float: left;
+  background-color: #eee;
+  margin-top: 113px;
+  height: 296px;
+  width: 200px;
+  padding: 8px;
+  border-style: outset;
+  border-color: #ddd;
+  border-width: 1px;
+}
+#search_div {
+  width: 200px;
+}
+#search_div input[type="text"]  {
+  border: solid 1px #ddd;
+  color: #ccc;
+  width: 240px;
+  font-size: 14pt;
+  padding: 4px;
+}
+#search_div input[type="submit"]  {
+  border: outset 2px #ddd;
+  color: #555;
+  width: 240px;
+  font-size: 14pt;
+  padding: 4px;
+}

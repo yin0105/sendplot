@@ -1,0 +1,17 @@
+# use glob syntax.
+syntax: glob
+
+*.swp
+*.pyc
+*~
+*.log
+*.tmp
+log/*.log
+
+Include
+Lib
+Scripts
+pip-selfcheck.json
+
+misplaced_files.json
+combined_directories.json
