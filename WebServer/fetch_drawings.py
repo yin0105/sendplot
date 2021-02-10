@@ -5,6 +5,7 @@ import os
 from os.path import join, dirname
 from dotenv import load_dotenv
 import threading
+from datetime import datetime
 
 # aDirs = [['h:\\plot\\scanned_tif', 'tif'], ['h:\\plot\\masterbills', 'tif'],
 #          ['h:\\plot\\apdf', 'pdf'], [
@@ -27,7 +28,9 @@ def get_dir_dict(fDir, fType, fLink):
         basename = item[item.rfind('\\') + 1:item.rfind('.')].upper()
         # basename = basename.upper()
         # print fLink, item
-        tmp_dict[basename] = item
+        mtime = os.path.getmtime(item)
+        if mtime < os.path.getctime(item) : mtime = os.path.getctime(item)
+        tmp_dict[basename] = [item, datetime.fromtimestamp(mtime).strftime('%Y-%m-%d %H:%M:%S')]
     return tmp_dict
 
 
