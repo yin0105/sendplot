@@ -222,7 +222,7 @@
       return;
     }
     if (previous_button && $('#' + previous_button)[0]) {
-      $('#' + previous_button)[0].innerHTML = previous_button;
+      $('#' + previous_button)[0].innerHTML = previous_button + "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" + $('#' + drawing_name).data("special");
     }
     previous_button = drawing_name;
     $('#list_drawings').empty();
