@@ -285,7 +285,6 @@ handle_results_clicks = ($el) ->
   else
     $('#Print_btn').addClass 'print_btn'
   $('#btn_pdf').attr 'disabled', 'disabled'
-  # $('#More_btn').html($('#More_btn').html() + '<span class="caret"></span>');
   $('#More_btn').html $('#More_btn').html()
   return
 

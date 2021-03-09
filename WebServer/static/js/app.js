@@ -204,7 +204,6 @@
   };
 
   handle_results_clicks = function($el) {
-    console.log("handle_results_clicks");
     var action_btns, drawing_name, items, key, sString, s_buttons, s_disabled, val;
     $('.active').removeClass('active');
     $('#info').html('');
@@ -228,18 +227,24 @@
     $('#list_drawings').empty();
     sString = void 0;
     $.each(search_strings, function(index) {
+      console.log(search_strings[index]);
+      console.log(drawings[search_strings[index]]);
       if (typeof drawings[search_strings[index]] !== 'undefined') {
         sString = search_strings[index].toUpperCase();
         drawing_name = drawing_name.toUpperCase();
+        console.log("sString = " + sString);
+        console.log("drawing_name = " + drawing_name);
         if (search_strings.length > 1) {
           if (drawing_name.indexOf(sString) !== -1) {
             console.log("drawing_name = " + drawings[sString][drawing_name]);
-            val = drawings[sString][drawing_name][0];
+            val = drawings[sString][drawing_name];
+            // val = drawings[sString][drawing_name][0];  2021-03-09
           } else {
 
           }
         } else {
-          val = drawings[sString][drawing_name][0];
+          val = drawings[sString][drawing_name];
+          // val = drawings[sString][drawing_name][0];  2021-03-09
         }
         console.log("val = " + val);
       }
@@ -254,6 +259,7 @@
       var data_id, drawing_link, info_button, mb_drawings_button, more_info_link, pdf_modified, s, s_type;
       s = val[item];
       drawing_link = val[item];
+      console.log("val[item] = " + drawing_link);
       more_info_link = '';
       data_id = drawing_name;
       action_links.data_id = data_id
@@ -273,21 +279,27 @@
       }
       console.log("a - 1");
       console.log(drawing_link);
-      if (drawing_link.toUpperCase().lastIndexOf('.PRF') > 0) {
-        action_links.PRF = drawing_link;
+      console.log(drawing_link[0]);
+      console.log(drawing_link[0].substring(3,6));
+      console.log("ok");
+      if (drawing_link[0].toUpperCase().lastIndexOf('.PRF') > 0) {
+        action_links.PRF = drawing_link[0];
         action_btns.Print = 'enabled';
-      } else if (drawing_link.toUpperCase().lastIndexOf('.PDF') > 0) {
-        action_links.PDF = drawing_link;
-        action_links.PRF = drawing_link;
-        pdf_modified = get_file_meta(drawing_link);
-        $('#list_drawings').append('<li class="list-group-item"><a href="' + drawing_link + '" title="  ' + drawing_link + '  " target="_blank">' + s.substring(s.lastIndexOf('/') + 1) + '  </a>' + more_info_link + '</li>');
+      } else if (drawing_link[0].toUpperCase().lastIndexOf('.PDF') > 0) {
+        action_links.PDF = drawing_link[0];
+        action_links.PRF = drawing_link[0];
+        pdf_modified = get_file_meta(drawing_link[0]);
+        $('#list_drawings').append('<li class="list-group-item"><a href="' + drawing_link[0] + '" title="  ' + drawing_link[0] + '  " target="_blank">' + s[0].substring(s[0].lastIndexOf('/') + 1) + '  </a>' + more_info_link + '</li>');
         action_btns.PDF = 'enabled';
         action_btns.Print = 'enabled';
       } else {
-        s_type = drawing_link.substring(drawing_link.lastIndexOf('.') + 1);
-        action_links[s_type] = drawing_link;
-        $('#list_drawings').append('<li class="list-group-item"><a href="' + drawing_link + '" title="  ' + drawing_link + '  " target="_blank">' + s.substring(s.lastIndexOf('/') + 1) + '  </a>' + more_info_link + '</li>');
-        $('#menu_more').append('<li class="list-group-item"><a href="#" class="download_file" data-id="' + drawing_link + '" title="   ' + drawing_link + '   " >' + s.substring(s.lastIndexOf('/') + 1) + '  </a>' + more_info_link + '</li>');
+        console.log("1");
+        s_type = drawing_link[0].substring(drawing_link[0].lastIndexOf('.') + 1);
+        console.log("2");
+        action_links[s_type] = drawing_link[0];
+        $('#list_drawings').append('<li class="list-group-item"><a href="' + drawing_link[0] + '" title="  ' + drawing_link[0] + '  " target="_blank">' + s[0].substring(s[0].lastIndexOf('/') + 1) + '  </a>' + more_info_link + '</li>');
+        console.log("drawing_link[0] = " + drawing_link[0]);
+        $('#menu_more').append('<li class="list-group-item"><a href="#" class="download_file" data-id="' + drawing_link[0] + '" title="   ' + drawing_link[0] + '   " >' + s[0].substring(s[0].lastIndexOf('/') + 1) + '  </a>' + more_info_link + '</li>');
         action_btns.More = 'enabled';
       }
     });
