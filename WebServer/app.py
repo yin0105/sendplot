@@ -111,14 +111,14 @@ def file_del(data_id):
         new_value = []
         if key == data_id:
             for v in value:
-                ext = v[-3:]
+                ext = v[0][-3:]
                 if ext.upper() != "PDF": 
                     new_value.append(v)
                     continue
-                if exists(v):
+                if exists(v[0]):
                     try:
-                        shutil.move(v, trash_bin)
-                        print(v + " is removed.")
+                        shutil.move(v[0], trash_bin)
+                        print(v[0] + " is removed.")
                     except:
                         return ""
                 else:
